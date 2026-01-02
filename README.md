@@ -57,6 +57,6 @@ Since this is a **static website**, you can simply:
    git clone https://github.com/Chah2004/Hot-Spicy.git
 2. **Open any .html file in your browser**
   For example:
-  📍 realhome.html — homepage
-  📍 menu.html — menu page
+  -📍 realhome.html — homepage
+  -📍 menu.html — menu page
 No server or backend setup is required.
